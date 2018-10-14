@@ -30,3 +30,12 @@
     transform: rotate(360deg);
   }
 }
+.menu{
+  list-style: none;
+  background-color: cornflowerblue;
+
+}
+
+li {
+  display: inline;
+}
