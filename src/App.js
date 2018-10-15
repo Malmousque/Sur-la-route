@@ -11,8 +11,8 @@ class App extends Component {
      <Router>
      <div>
      <ul className = "menu">
-     <li><NavLink exact to="/" activeClassName="selected"><button>Home</button></NavLink></li>
-     <li><NavLink to="/History" activeClassName="selected"><button>Notre Histoire</button></NavLink></li>
+     <li><NavLink exact to="/" activeClassName="selected">Home</NavLink></li>
+     <li><NavLink to="/History" activeClassName="selected">Notre Histoire</NavLink></li>
      </ul>
      
       <switch>
